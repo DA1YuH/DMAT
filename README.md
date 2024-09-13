@@ -1,1 +1,1 @@
-# This repository is the official repository for the paper 《Dynamic Multi-scale Feature Adapter for Thermal Infrared Obejct Tracking》 . The source code and model weights will be made public after the paper is accepted. Please stay tuned.
+# This repository is the official repository for the paper 《Dynamic Multi-scale Prior Adapter for Thermal Infrared Object Tracking》 . The source code and model weights will be made public after the paper is accepted. Please stay tuned.
